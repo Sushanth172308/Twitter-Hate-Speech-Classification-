@@ -1,3 +1,9 @@
 notebook
 ipywidgets
-tqdm
+#tqdm
+pandas
+nltk
+scikit-learn
+numpy
+streamlit
+
