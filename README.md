@@ -3,4 +3,4 @@ This  Hate Speech Classification App is an innovative tool that uses advanced te
 ## some thumbnails  of the project-
 <img src="images\Screenshot 1.png" alt="Alt text" title="Optional title">
 <img src="images\Screenshot 2.png" alt="Alt text" title="Optional title">
-<img src="images\Screenshot 3.png" alt="Alt text" title="Optional title"
+<img src="images\Screenshot 3.png" alt="Alt text" title="Optional title">
